@@ -88,7 +88,7 @@
         /* বাটনের জন্য নতুন স্টাইলিং */
         button {
             background-color: #4CAF50;
-            color: white;
+            color: red;
             padding: 10px 20px;
             border: none;
             border-radius: 5px;
